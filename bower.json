@@ -1,0 +1,20 @@
+{
+  "name": "Marionette.TemplateManager",
+  "version": "1.0.0",
+  "authors": [
+    "Jonathan Kemp <kempdogg@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone.marionette": "~2.1.0",
+    "jasmine": "~2.0.1"
+  }
+}
