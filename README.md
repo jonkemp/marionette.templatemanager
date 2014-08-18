@@ -24,6 +24,7 @@ templateManager.template('hello')
         new MyView().render();
     });
 ```
+To see an example of this, check out the [wizard-mvc project](https://github.com/jonkemp/wizard-mvc/tree/master/public/backbone-marionette).
 
 ## API
 
